@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>526149683823-8lg81lhgbe8utjtc30ml5hh2tn5k3dgi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.526149683823-8lg81lhgbe8utjtc30ml5hh2tn5k3dgi</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>526149683823-15dcc78t7qcelhhrias23rcof7s0k5gu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCsI2eL4nOKwkv40UpSiZFDiqkWhHp7zP8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>526149683823</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.drawerAuth.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>galirage-agi-4ec97</string>
+	<key>STORAGE_BUCKET</key>
+	<string>galirage-agi-4ec97.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:526149683823:ios:6000bf0f2ee76ac0e3db9a</string>
+</dict>
+</plist>
